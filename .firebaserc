@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bts-lottery": {
+      "hosting": {
+        "bts-lottery": [
+          "bts-lottery"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bts-lottery"
+  }
+}
